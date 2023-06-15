@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@snyk/protect@^1.1181.0":
+  version "1.1181.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1181.0.tgz#e5ee99a884a97d2ccf7fb9959ef39788b0799e81"
+  integrity sha512-WoQRacXmSu7EZgtXMqfOF9qncc019TpJNXlFIwFIWJPHCtsgLDdtp46gn6N/YESHgnne6W2Jj2mAHxtGfhASPw==
+
 "@types/geojson@^1.0.0":
   version "1.0.6"
   resolved "https://registry.yarnpkg.com/@types/geojson/-/geojson-1.0.6.tgz#3e02972728c69248c2af08d60a48cbb8680fffdf"
