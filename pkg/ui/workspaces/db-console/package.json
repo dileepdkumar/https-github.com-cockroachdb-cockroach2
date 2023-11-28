@@ -21,7 +21,7 @@
     "@cockroachlabs/crdb-protobuf-client": "link:./src/js",
     "@cockroachlabs/icons": "0.3.0",
     "analytics-node": "^3.5.0",
-    "antd": "^3.25.2",
+    "antd": "^4.0.0",
     "babel-polyfill": "^6.26.0",
     "classnames": "^2.2.5",
     "combokeys": "^2.4.6",
